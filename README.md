@@ -117,4 +117,11 @@ with open("bike_sharing_xgboost.pkl", "rb") as f:
     model = pickle.load(f)
 
 y_pred = model.predict(X_input)
+```
 
+## 👨‍💻 Author
+
+**Ezra Satria Bagas Airlangga**  
+Master’s Student – Electrical Engineering, Telkom University  
+📧 ezra.satria16@gmail.com
+🔗[LinkedIn](https://linkedin.com/in/ezrasatriabagas/)  
