@@ -2,6 +2,8 @@
 
 Membangun model regresi untuk memprediksi jumlah peminjaman sepeda per jam (`cnt`) dari data cuaca dan waktu. Output model bisa dipakai sebagai baseline untuk perencanaan operasional (rebalancing sepeda, estimasi demand jam sibuk, dll).
 
+![Bike Sharing Demand Prediction](assets/bike1.png)
+
 ---
 
 ## Project Overview
